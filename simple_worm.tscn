@@ -1,0 +1,13 @@
+[gd_scene format=3 uid="uid://ljtmcvaq772p"]
+
+[node name="SimpleWorm" type="Node2D" unique_id=1123300800]
+
+[node name="A" type="Node2D" parent="." unique_id=1649570358]
+
+[node name="B" type="Node2D" parent="." unique_id=1718157000]
+
+[node name="C" type="Node2D" parent="." unique_id=92637392]
+
+[node name="D" type="Node2D" parent="." unique_id=1554740372]
+
+[node name="Line2D" type="Line2D" parent="." unique_id=438277427]
