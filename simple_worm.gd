@@ -1,5 +1,10 @@
 extends Node2D
 
+# TODO make the head move (rest will follow)
+# maybe with vector pointing toward mouse at first, and having tail movement generate force
+
+# TODO make SimpleWorm more like a class, so we can instatiate many objects from it
+
 @onready var A = $A 
 @onready var B = $B 
 @onready var C = $C 

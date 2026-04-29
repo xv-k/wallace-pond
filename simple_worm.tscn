@@ -4,7 +4,10 @@
 
 [node name="SimpleWorm" type="Node2D" unique_id=1123300800]
 script = ExtResource("1_y6r70")
-wave_amplitude = 1.0
+wave_amplitude = 1.6
+wave_speed = 2.3
+phase_delay = 2.0
+amplitude_difference_invert_factor = 0.8
 amplitude_difference_factor = 1.0
 
 [node name="A" type="Node2D" parent="." unique_id=1649570358]
