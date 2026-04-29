@@ -1,6 +1,9 @@
 [gd_scene format=3 uid="uid://ljtmcvaq772p"]
 
+[ext_resource type="Script" uid="uid://cohbkv05b64lb" path="res://simple_worm.gd" id="1_y6r70"]
+
 [node name="SimpleWorm" type="Node2D" unique_id=1123300800]
+script = ExtResource("1_y6r70")
 
 [node name="A" type="Node2D" parent="." unique_id=1649570358]
 
